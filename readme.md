@@ -18,3 +18,7 @@ cut_img.py
 2. selecionar a área desejada
    - no terminal será exibido a região capturada
    - um arquivo com a imagem selecionada será criada com o nome `oiaaaa.png` 
+executar o arquivo com o comando:
+```
+python cut_img.py
+```
