@@ -5,9 +5,8 @@ instalar as dependências
 pip install -r requirements.txt
 ```
 
-
-Colocar o nome do seu personagem na variável WINDOW_TITLE
-a variável OPACITY configurada para 1 retira a opacidade da janela e 255 volta a opacidade normal
+- Colocar o nome do seu personagem na variável WINDOW_TITLE
+- a variável OPACITY configurada para 1 retira a opacidade da janela e 255 volta a opacidade normal
 
 executar o arquivo com o comando:
 ```
